@@ -7,6 +7,9 @@
     "dev": "nodemon src/index.js",
     "build": "webpack --mode production"
   },
+  "engines": {
+    "node": "14.18.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
